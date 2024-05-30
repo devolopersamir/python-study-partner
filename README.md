@@ -1,23 +1,23 @@
 <p align="center"><img src="https://img.shields.io/badge/THIS%20IS ⚡ DEV-SAMIR⚡-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square">
  
 <p align="center">
-  <a href="https://github.com/U7P4L-IN"><img src="https://readme-typing-svg.herokuapp.com/?lines=🔁%20Text%20Repeater;🌐%20For%20Everybody%20</>;👨‍💻%20Comfortable%20With%20YourPhone;📲%20There%is20+p%20Features;🎨%20UI/UX%20%20Design;🤝%201%2B%20Powrful%20Correct%20And%20CPerfrct;🔰%20Samir%20Talukder%20Apurbo%20</>&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
+  <a href="https://github.com/U7P4L-IN"><img src="https://readme-typing-svg.herokuapp.com/?lines=🔁%20This%20is;🌐%20Python%20StudyPartner%20</>;👨‍💻%20Comfortable%20With%20YourPhone;📲%20There%is20+p%20Features;🎨%20UI/UX%20%20Design;🤝%201%2B%20Powrful%20Correct%20And%20CPerfrct;🔰%20Samir%20Talukder%20Apurbo%20</>&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
 </p>
 
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=220&text=𝐅𝐞𝐚𝐭𝐮𝐫𝐞'𝐬+&fontAlign=80&fontAlignY=40&color=gradient)
 
 ```
-1. Text Repater Perfectly
-2. Load Any Number (Str)
-3. Add Line And Index
+1. You Can Learn Python 
+2. Exam And Test Your .py Skill
+3. A correct rating for your .py skill 
 ```
 
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=220&text=𝐈𝐧𝐬𝐭𝐚𝐥𝐥+&fontAlign=80&fontAlignY=40&color=gradient)
 
-<a href="https://www.upload-apk.com/en/Bp6ebYZHF8uqOZg"><strong>       𝐃𝐎𝐖𝐍𝐋𝐎𝐀𝐃 𝐍𝐎𝐖</strong></a>
+
 
 ```
-• TAP DOWNLOAD NOW AND DOWNLOAD THIS APP
+• CONVERT PYCHARM AND DOWNLOAD THIS CODE AND ENJOY BUT DON'T COPY THIS CODE.
 ```
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=210&text=𝐏𝐢𝐜𝐭𝐮𝐫𝐞&fontAlign=80&fontAlignY=40&color=gradient)
 
