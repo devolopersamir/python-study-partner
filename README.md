@@ -19,9 +19,7 @@
 ```
 • CONVERT PYCHARM AND DOWNLOAD THIS CODE AND ENJOY BUT DON'T COPY THIS CODE.
 ```
-![waving](https://capsule-render.vercel.app/api?type=waving&height=210&text=𝐏𝐢𝐜𝐭𝐮𝐫𝐞&fontAlign=80&fontAlignY=40&color=gradient)
 
-<a href='https://postimg.cc/tnZbyvsp' target='_blank'><img src='https://i.postimg.cc/vTXZrpMg/Realistic-Mobile-UI-Mockup-with-Aesthetic-Gradient-Blur-Background-20240320-124703-0000.png' border='0' alt='Realistic-Mobile-UI-Mockup-with-Aesthetic-Gradient-Blur-Background-20240320-124703-0000'/></a>
 
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=210&text=𝐏𝐨𝐥𝐢𝐜𝐲&fontAlign=80&fontAlignY=40&color=gradient)
 
